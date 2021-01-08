@@ -14,9 +14,19 @@
 1. [JS Chapter 1: ABC of Programming 11-52](chapter-1-js)
 
 ### Intro-HTML
--
+- HTML - This is used to create the web pages in this chapter
+- CSS - controls styling and layout of the pages (presentation and layout)
+- It's important to understand how the internet works before learning to code.
 ### Chapter 1 HTML
--
+- HTML provides the structure for websites. These ar  text documents. the structure is accomplished through the use of tags and elements.
+- Elements
+    - body, paragraph, header, etc. are examples of elements
+- Tags
+    - (<) Left angle bracket
+    - (>) Right angle bracket
+    - inside the brackets is characters - closing tags will have forward slashes
+- Attributes - attributes give more detail to the elements. they include 2 parts a **name** and a **value**
+- Learning HTML is learning what tags are available to use, what they do, and where to use them.
 ### Chapter 8 HTML
 -
 ### Chapter 17 HTML
