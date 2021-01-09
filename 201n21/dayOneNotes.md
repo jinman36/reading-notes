@@ -3,7 +3,7 @@
   
 ## Table of Contents
 1. [Intro](#COC)
-
+[Partner Power Hour](#partner-power-hour)
 ## Links
 
 ## Vocabulary
@@ -37,14 +37,6 @@
  Whta is a repl, compared to a repo
 
 - Zoom etiquette
-
-
-
-
-
-
-
-
 
 # Partner Power Hour
 1. Who was the speaker and what company or companies were they from? What was the topic of the talk?
