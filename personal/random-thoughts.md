@@ -1,0 +1,1 @@
+is there a way to run a script in the termianl that auto commits at time intervals?

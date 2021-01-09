@@ -38,6 +38,14 @@
 
 - Zoom etiquette
 
+
+
+
+
+
+
+
+
 # Partner Power Hour
 1. Who was the speaker and what company or companies were they from? What was the topic of the talk?
 - Bob Breitman/ started with GM, now works with PeriCertum - CyberRisk, Security --> during Pandemic
