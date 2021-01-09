@@ -1,0 +1,15 @@
+.sm-black-outline{
+    outline: 2 pix black solid;
+}
+h2 {
+    margin: 55px;
+
+}
+p {
+    padding: 55px;
+}
+
+.red-background {
+    outline-color: #ff0000;
+    background-color: rgb(0,255,0)
+}
