@@ -7,11 +7,11 @@
 1. [HTML Chapter 1: "Structure' (pp 12-39)](#chapter-1-html)
 1. [HTML Chapter 8: Extra Markup (176-199)](#chapter-8-html)
 1. [HTML Chapter 17: HTML 5 Layout 428-451](#chapter-17-html)
-1. [HTML Chapter 18: Process & Design (452-475)](#chapter18-html)
+1. [HTML Chapter 18: Process & Design (452-475)](#chapter-18-html)
 
 - Ducket JS Book
 1. [Introduction](#intro-js)
-1. [JS Chapter 1: ABC of Programming 11-52](chapter-1-js)
+1. [JS Chapter 1: ABC of Programming 11-52](#chapter-1-js)
 
 ### Intro-HTML
 - HTML - This is used to create the web pages in this chapter
