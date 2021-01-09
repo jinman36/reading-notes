@@ -63,3 +63,6 @@
 - A script is a series of instruction for the computer to follow.
 - Understanding how to use the script and help the computer create a model of the world 
 - Use individual language pages for each language then use a <script> tag to tie them togetherr in the HTML page for viewing and interaction.
+
+
+- [Main Page](https://jinman36.github.io/reading-notes/)
