@@ -17,6 +17,6 @@
  - [Day 14](dayFourteenNotes.md)
  - [Day 15](dayFifteenNotes.md)
 
- -[Reading Assignment](class-01.md)
+ 1. [Reading Assignment](class-01.md)
 
 - [live link](https://jinman36.github.io/reading-notes/)

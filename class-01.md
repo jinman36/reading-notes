@@ -41,7 +41,7 @@
 - Grouping Text and elements in a block - <div> element allows you  to group sets of elements together into one block level box.
 - iframes - (<iframes>) - These are like windows to other pages. Abbrevated from "inline frame." - This will  also need to include src, height, width scrolling (not supported in HTML 5), framborder (not supported in html 5), seamless (new to HTML5)
 - Meta data - this is the informaiton that is stored in the head which identifies important key elements of the webpage.  
-### Chapter 17 HTML
+### Chapter 17 HTML (summary page)
 - The new HTML 5 elements indicate the purpose of different parts of the web page and help to describe its stucture
 - the new elemetns provide cleareer code (compared to using multiple <div> elelemnts).
 - Older browsers that do not understand HTML5 elemnets need to be told which elelments are block level elements
