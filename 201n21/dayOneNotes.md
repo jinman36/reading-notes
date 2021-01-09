@@ -23,7 +23,13 @@
  ### How to be successful
  - Prepare to fail and let it be part of your process
 
-
+### Canvas Overview
+### Tips for success
+- get ready...
+- take notes
+- keep up with daily assignments
+- reseearch topics you don't understand - new or confusing
+- be thourough and deliberate when reading error messages and console/terminal responses. Take time and do not go too fast.
 
 
 
