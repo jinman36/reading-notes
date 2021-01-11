@@ -41,9 +41,9 @@
 - A wireframe is greate for HTML ajnd CSS but creating a flowchart will allow a designer to map the decision flow of a user throughout the site. - recognizing and calculating desicion statements to make logical flows. 
 - logical operators will be used to compare to operands and create a decision
 - 3 types of loops
-    - for
-    - while
-    - do...while
+    1. for
+    2. while
+    3. do...while
 
 
 
