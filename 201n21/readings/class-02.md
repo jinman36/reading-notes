@@ -10,11 +10,9 @@
 1. [JS Chapter 2: Basic JavaScript Instructions (53-84)](#chapter-2-js)
 1. [JS Chapter 4: Decisions and Loops (145-162)](#chapter-4-js)
 
-
-
 ## Links
 - [Git-Commit Website](https://chris.beams.io/posts/git-commit/)
-    -[Git-Commit Website summary](#git-commit-summary)
+    - [Git-Commit Website summary](#git-commit-summary)
 
 ### Chapter 2 HTML
 - Structural markups -elements that describe both headings and paragrapghs
@@ -61,4 +59,4 @@
 
 
 
-- [Main Page](https://jinman36.github.io/reading-notes/)
+- [Main Page](https://jinman36.github.io/reading-notes/201n21)
