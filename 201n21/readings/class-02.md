@@ -1,5 +1,5 @@
-# Reading Assignment
-### Date 1-9-2021
+# Reading Assignment - 02
+### Date 1-11-2021
  
 ## Summarize the topics in the below chapters
 - Duckett HTML Book
@@ -10,8 +10,11 @@
 1. [JS Chapter 2: Basic JavaScript Instructions (53-84)](#chapter-2-js)
 1. [JS Chapter 4: Decisions and Loops (145-162)](#chapter-4-js)
 
+
+
 ## Links
 - [Git-Commit Website](https://chris.beams.io/posts/git-commit/)
+    -[Git-Commit Website summary](#git-commit-summary)
 
 ### Chapter 2 HTML
 - Structural markups -elements that describe both headings and paragrapghs
@@ -45,7 +48,16 @@
     2. while
     3. do...while
 
-
+### Git Commit Summary
+- Git commit messages are important. If they are sporadic, repeatitve and non-descriptive they provide very little guidance to the reader looking at them and they will probably not get read on a continuing basis.
+- Chris Beams Website lists the seven rules for creating git commit messages that follow established command function patterns and protocols.
+    1. Seperate subject from body with a blank line
+    2. Limit the subject line to 50 characters
+    3. Captialize the subject line
+    4. Do not end the subject with a period - space is precious
+    5. Use the imparitive mood in the subject line - write it like a command
+    6. Wrap the body at 72 characters
+    7. Use the body to explain what and why vs. how
 
 
 
