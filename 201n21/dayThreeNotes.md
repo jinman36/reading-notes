@@ -22,11 +22,13 @@
  1. create repo
  2. git clone
  3. create files/ folders - populate files - - ACP - add, commit, push
- 4. git push - push it back up to remote repo (Git add . - git commit -m "message", git push origin main)
+ 4. git push - push it back up to remote repo (Git add <filename> - git commit -m "message", git push origin main)
 
 
+- copy folders - linters - file scaffold
+- cp (location) <space> (where we want to copy too - add file file path if not on same level)
 
-
+- copy and paste is inherently dangerous
 
 ## Git command basics
 
@@ -48,7 +50,16 @@
 
 
 ## Learning Journal
+  ### About-me
 
+1. How did this go, overall?  - Overall, I believe this assignment went really well for me. This is very similar to how we concluded 201, so it was familiar but still not just a repeat of something I had learned before.
+
+1. What observations or questions do you have about what you’ve learned so far?  - I think I'm still just soaking in what I can, so far. I am enjoying the deliberate method of teaching. I believe I am getting a lot form the tips and tricks, so that is definitely appreciated.
+
+1. How long did it take you to complete this assignment?  
+- I completed the main assignment fairly quickly, with the amount of starter code we developed in the talk-through. I did use a significant amount of time manipulating CSS, just to go back to a basic design.
+  - before you started, how long did you think it would take you to complete this assignment?    
+    - I felt I could have completed it by the end of class yesterday, which I did. I used todays lab to focus on looking at more CSS and adjusting the javaScript to be cleaner.
 
 
 
