@@ -19,7 +19,10 @@
  - starts with a backtik
  - alert(`goodbye, ${userName} I hope you enjoed my website`);
  - This will turn the whole line into a string - will not need to use escape characters for apostrophes
- -  
+ 
+ ## Learning Journal - day 4
+ - I've notied it's difficult to routinly take notes, digitally, follow along and still get a lot out of the assignments.
+ - I think the concepts are clicking fairly well, at this point but I am not a huge fan of CSS. It seems that it is a lot of tedious work and manipulation for occasionally wacky results... so less is definetly proving to be better.
 
 
 
