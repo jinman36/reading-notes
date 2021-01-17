@@ -2,12 +2,11 @@
 ### Date 1-16-2021
   
 ## Table of Contents
-1. []()
+1. [Arrays](#arrays)
+1. [Notes](#notes)
+1. [learning journal](#learning-journal)
 
-## Links
-
-## Vocabulary
-
+## Notes
 - 'for' loops
 - 'if and if/else. loop[]
 
@@ -22,7 +21,7 @@ wordpress is about 1/3 of webpages on the internet.. creates nice websites with 
 
   - em - ephemoral unit - this will adjust font size of text
 
-- serif - referes to the little feet and arms on the text
+- serif - references to the little feet and arms on the text
 - sans-serif
 
 - v-width - viewport width -adjusts to device that you are viewing the site from
@@ -48,7 +47,7 @@ wordpress is about 1/3 of webpages on the internet.. creates nice websites with 
 - var user prompt('what is your name?';
 - console.log
 
-
+## Learning Journal
 - for the lab we need to remember the data type - it asks for a number do make sure the logic matches data type - I randomly found parseInt() which allows the computer to distinguish between a string or an integer.  
 
 - How did this go, overall? This was a difficult assignment for me. There was a lot of different things to try for question 6 and 7 and the logical opertors did not make a lot of sense in many of the instances used but they seem to be doing what I need, at this time, so I do not want to fight it.
