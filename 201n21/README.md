@@ -21,4 +21,6 @@
 1. [Reading Assignment 2](readings/class-02.md)
 1. [Reading Assignment 3](readings/class-03.md)
 
+1 - [425Show](meetUp.md)
+
 - [live link](https://jinman36.github.io/reading-notes/)
