@@ -1,5 +1,5 @@
-# Reading Assignment - 03
-### Date 1-16-2021
+# Reading Assignment - 04
+### Date 1-18-2021
  
 ## Summarize the topics in the below chapters
 - Duckett HTML Book
@@ -7,7 +7,7 @@
 1. [HTML Chapter 15: Layout 358-404](#chapter-15-html)
 1. [Text book sample](http://htmlandcssbook.com/code-samples/chapter-15/)
 
-- Ducket JS Book
+- Duckett JS Book
 1. [JS Chapter 3: Functions 86-99](#chapter-3-js)
 1. [ 6 Reasons for Pair Programming](#pair-programming)
 
@@ -55,3 +55,5 @@
   1. social skills
   1. job interview readiness
   1. work environment readiness
+
+  - [live link](https://jinman36.github.io/reading-notes/)

@@ -29,3 +29,4 @@ UI - How things look
 
 
 
+- [live link](https://jinman36.github.io/reading-notes/)

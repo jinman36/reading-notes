@@ -31,4 +31,5 @@
   - Placing content on site
   - Inline/block displays
   - box-shadow
-  - 
+  
+  - [live link](https://jinman36.github.io/reading-notes/)

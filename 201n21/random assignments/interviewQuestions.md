@@ -20,3 +20,6 @@
   - Task: To ensure my own safety and the safety of the crews I worked with, I took charge of the contractors and NATO forces on ground to build up and enforce base security.
   - Action: The biggest hurdle was lack of training, although these were mostly military, they were primarily soft skills that were focused on infrastructure tasks, logistics, chow hall, mechanical, etc. We set up a training and drill schedule to work on battle drills that focused on base security to ensure that every-one on base knew their roles when an event happened. 
   - Result: This allowed up to successfully lead counter attacks and ensure the safety of the members of camp until the camp was retrograded (broken down) and all US forces were moved to other location
+
+
+- [live link](https://jinman36.github.io/reading-notes/)
