@@ -17,11 +17,11 @@
     - Nested list - while not really it's own type of list, this refers to list within lists - which is very useful - which is how I creted the bullet point feel within my 'about me page' to creat a resume feel to it.
 
 ## Chapter 13 html
-- Box dimensions are genarally controlled with pixals but ems and % are beign used more widely since they adjust to the different browsers or devices that a user could be viewing the website from.
+- Box dimensions are generally controlled with pixals but ems and % are beign used more widely since they adjust to the different browsers or devices that a user could be viewing the website from.
 - min/max width and height also help these aspect rations become bigger and smaller for uend user legibility
 - 
 - Boxes are important and CSS regards each element of HTML as living in a box, whether it is visible or invisible. Being able to manipulate these sizes and shapes can have great affects on the readability of many aspects of a webpage.
-- Being able to display the correct informaiton on a website is important and being able to control the shape and display of boxes directly affects this. understanding elements an d commands as the followign are the basic building blocks:
+- Being able to display the correct information on a website is important and being able to control the shape and display of boxes directly affects this. understanding elements an d commands as the followign are the basic building blocks:
   - Box dims
   - limiting w and h
   - overflow
