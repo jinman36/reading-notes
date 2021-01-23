@@ -49,6 +49,25 @@ Create a terminal bible to help remember the steps and git flow required
 
 - five features to a branch (6 feature for a stretch)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Partner Power Hour
 
 ### Who was the speaker(s) and what company or companies were they from? What was the topic of the talk?
