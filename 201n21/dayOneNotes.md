@@ -3,7 +3,7 @@
   
 ## Table of Contents
 1. [Intro](#COC)
-[Partner Power Hour](#partner-power-hour)
+- [Partner Power Hour](#partner-power-hour)
 ## Links
 
 ## Vocabulary - terminal commands
