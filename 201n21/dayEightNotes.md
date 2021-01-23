@@ -51,12 +51,27 @@ Create a terminal bible to help remember the steps and git flow required
 
 # Partner Power Hour
 
-Who was the speaker(s) and what company or companies were they from? What was the topic of the talk?
-- 
-Share 1 or 2 ways the speaker’s information will change your approach to your career transition.
-- 
-Do you have any other key take-aways, or observations about this Partner Power Hour?
-- 
+### Who was the speaker(s) and what company or companies were they from? What was the topic of the talk?
+- Deziree Teague - Web accessibility 101 - Software Engineer for the 'Committee for Children'
+- "five things I've learned as a person of color in tech"
+- Designing and developing tools and tech so that ppl with disabilities can interact with the internet.
+
+- W3C WCAG 2.1
+
+### Share 1 or 2 ways the speaker’s information will change your approach to your career transition.
+- identify transferable skills - confidence, resourceful, adaptable
+- there are non-traditional pathways into technology that could help develop a skill set into a specific area.
+
+### Do you have any other key take-aways, or observations about this Partner Power Hour?
+- POOR - Perciveable (senses), Operable (controls, and interactivity)
+, Understandable (clear), robust (wide range of tech)
+- Checking for color contrast (ratios) - webaim, color sae, accessible-colors
+- color schemes - 5% of all users have color blindness
+  - yellow can cause sensory overload in autistic ppl
+- Semantic HTML - page title, language attribute, tab order, alt text, headings, landmarks > div/span
+- A11Y Conferences & Meetups (axe-con)
+
+
 
 
 
