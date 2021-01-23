@@ -21,6 +21,7 @@
 1. [Reading Assignment 2](readings/class-02.md)
 1. [Reading Assignment 3](readings/class-03.md)
 1. [Reading Assignment 4](readings/class-04.md)
+1. [Reading Assignment 5](readings/class-05.md)
 
 - [Interview Questions](interviewQuestions.md)
 
