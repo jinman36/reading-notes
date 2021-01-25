@@ -2,7 +2,8 @@
 ### Date 1-9-2021
   
 ## Table of Contents
-1. []()
+1. [Git Flow](#git-flow)
+1. [learning Journal](#learning-journal)
 - [Partner Power Hour](#partner-power-hour)
 ## Links
 
@@ -15,10 +16,10 @@ Create a terminal bible to help remember the steps and git flow required
 - native JavaScript array methods - comes with / built in
 - .push(enter things>); -- inserts into the back of the array
 - .pop() - does not need argument - removes from the Back of the array
-// .shift(); removes an item from the FRONT of an array - note it reassigns ALL of the indexes
-// .unshift( enter things); inserts into the FRONT of the array
-// .splice(where (index) to start, number of objects to remove, what to end - if anything) - remove and add ANYWHERE in an attay
-// this is more complex - play with caution
+- .shift(); removes an item from the FRONT of an array - note it reassigns ALL of the indexes
+- .unshift( enter things); inserts into the FRONT of the array
+- .splice(where (index) to start, number of objects to remove, what to end - if anything) - remove and add ANYWHERE in an attay
+- this is more complex - play with caution
 
 
 
@@ -43,30 +44,12 @@ Create a terminal bible to help remember the steps and git flow required
       1. (git checkout -b branchname)
       2. (git push origin branchname) ACP from this branch - Add/ same - Commit/ Same - push/ changes pushing from new branch to main 
       3. this will create the branch in github/ w code
+      4. (git checkout main)
+      - Move to github -
       4. Pull request (PR) - merge --Github
       5. (Git pull origin main) - this is what will synch your github (origin) with your remote(computer)
-      6. (git checkout main)
 
 - five features to a branch (6 feature for a stretch)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Partner Power Hour
 
@@ -90,9 +73,9 @@ Create a terminal bible to help remember the steps and git flow required
 - Semantic HTML - page title, language attribute, tab order, alt text, headings, landmarks > div/span
 - A11Y Conferences & Meetups (axe-con)
 
-
-
-
+## Learning Journal
+- Today was a good day for learning. I enjoyed the lab today, more than a lot of the other labs, although it was the hardest it was the most interesting to me, for the logical expressions with the functions and variables.
+- learning the different applications for tech is interesting to me, I enjoyed the PPH today and found it interesting to listen to one of my classmates from the original 102 class talk about her journey to where she is now and the experiences that she has had along the way.
 
 
 - [Main Page](https://jinman36.github.io/reading-notes/)

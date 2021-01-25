@@ -9,9 +9,9 @@
 
 
 ## Chapter 5 HTML
- - Figure out how images are going to be stored on the backend. Whether it will be on the local server or in an images fodler.
-  - If you have a larger site and it becomes more unruley, further subdivide the images into more folders like logos, buttons, backgrounds, etc.
-- ensure that you are using freeware photos or paying for rights to use photos on launched sites - this could pottentially lead to issues if you use photos you do not have the rights too.
+ - Figure out how images are going to be stored on the backend. Whether it will be on the local server or in an images folder.
+  - If you have a larger site and it becomes more unruly, further subdivide the images into more folders like logos, buttons, backgrounds, etc.
+- ensure that you are using freeware photos or paying for rights to use photos on launched sites - this could potentially lead to issues if you use photos you do not have the rights too.
 
 - Images are added to an HTML page with an <img> tag, the tag will need a <img src> to operate explaining where the file is located - this can be a relative url, or the path to a child directory folder.
 
@@ -27,8 +27,8 @@
     1. measure images in pixels
 
 ## Chapter 11 HTML
-- Understanding Color - All the colors below are reffering to the same mixing of Red, Green, Blue - they are only telling the computer to either mix them differently or the values are already assigned but the mixture process would still be the same.
-- The bottom (3) are elements that will help cutomize colors even further - the 4th is added for CSS3
+- Understanding Color - All the colors below are referring to the same mixing of Red, Green, Blue - they are only telling the computer to either mix them differently or the values are already assigned but the mixture process would still be the same.
+- The bottom (3) are elements that will help customize colors even further - the 4th is added for CSS3
   - RGB Values
   - Hex codes
   - color names
