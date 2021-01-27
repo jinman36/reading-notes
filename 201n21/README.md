@@ -17,11 +17,19 @@
  - [Day 14](dayFourteenNotes.md)
  - [Day 15](dayFifteenNotes.md)
 
+ ## Reading Notes
+
 1. [Reading Assignment 1](readings/class-01.md)
 1. [Reading Assignment 2](readings/class-02.md)
 1. [Reading Assignment 3](readings/class-03.md)
 1. [Reading Assignment 4](readings/class-04.md)
 1. [Reading Assignment 5](readings/class-05.md)
+1. [Reading Assignment 5](readings/class-05.md)
+
+## Test pages
+- [JavaScript](apps,js)
+- [html](index.html)
+- [Style](style.css)
 
 - [Interview Questions](interviewQuestions.md)
 
