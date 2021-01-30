@@ -73,5 +73,5 @@ console.log(yetMoreStudent);
 
 oneMoreStudent.offerIntroduction(); -->
 
-
+let seattleStore = objectInstance
 - [Main Page](https://jinman36.github.io/reading-notes/)
