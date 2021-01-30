@@ -24,7 +24,8 @@
 1. [Reading Assignment 3](readings/class-03.md)
 1. [Reading Assignment 4](readings/class-04.md)
 1. [Reading Assignment 5](readings/class-05.md)
-1. [Reading Assignment 5](readings/class-06.md)
+1. [Reading Assignment 6](readings/class-06.md)
+1. [Reading Assignment 7](readings/class-07.md)
 
 ## Test pages
 - [JavaScript](apps,js)
