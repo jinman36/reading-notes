@@ -37,8 +37,8 @@
 - [live link](https://jinman36.github.io/reading-notes/)
 
 ## Code 102 Class Notes
-- [Code 102 Class notes](102n48/README.md)
+- [Code 102 Class notes](../102n48/README.md)
 ## Ops 101 Class Notes
-- [Ops 101 Class Notes](Ops-101d16/ops-101-notes.md)
+- [Ops 101 Class Notes](../Ops-101d16/ops-101-notes.md)
 
 
