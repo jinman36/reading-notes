@@ -22,6 +22,7 @@
 1. [password cracking](https://www.betterbuys.com/estimating-password-cracking-times/)
 1. [hash creater](md5hashgenerator.com)
 1. [password crack](crashstation.net)
+1. [Linux commands](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 ## Vocabulary
 - RDP - remote desktop protocals
@@ -140,3 +141,15 @@
 ## Learn hacker Tools
 - tryhackme
 - geeks for geeks
+
+Use favorite reserach incident
+- no yahoo
+- no equifax
+
+- what happened
+- how did it happen
+- what motivated the attack
+- how it was dealt with
+- what kinds of security teams were involved
+
+- Powerpoint slide to rule them all - everyone takes a part
