@@ -7,6 +7,7 @@
 1. [Pen Test Process](#pen-test-process)
 1. [levels of the internet](#levels-of-the-internet)
 1. [A good Password](#a-good-password)
+1. [Learn Hacker tools](#learn-hacker-tools)
 
 ## Links
 1. [hackerone](hackerone.com)
@@ -136,3 +137,6 @@
   - Sr cyber Security Engineer
   - CISO/CSO - Chief information security officer/ Chief Security Officer
 
+## Learn hacker Tools
+- tryhackme
+- geeks for geeks
