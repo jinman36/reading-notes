@@ -26,14 +26,13 @@
 1. [Reading Assignment 5](readings/class-05.md)
 1. [Reading Assignment 6](readings/class-06.md)
 1. [Reading Assignment 7](readings/class-07.md)
+1. [Reading Assignment 8](readings/class-08.md)
 
 ## Test pages
 - [JavaScript](apps,js)
 - [html](index.html)
 - [Style](style.css)
-
 - [Interview Questions](interviewQuestions.md)
-
 - [live link](https://jinman36.github.io/reading-notes/)
 
 ## Code 102 Class Notes
