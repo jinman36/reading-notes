@@ -1,12 +1,42 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>JavaScript &amp; jQuery - Chapter 5: Document Object Model - Example</title>
+    <title>Form</title>
     
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-  
+
+    <form id='container-two'>
+      <fieldset>
+        <legend>give fieldset context</legend>
+
+        <label for='firstname'>First Name</label>
+        <input type='text' name='firstname'>
+        
+        <!-- hive name -->
+        <label>Last Name
+          <input type='text' name='lastname'>
+        </label>
+        <!-- yeild array -->
+        <label>Age
+          <input type='number' name='Age'>
+        </label>
+
+        <label for='pets'>What pet do you have?</label>
+        <select name='pets'>
+          <option value='dog'>Dog</option>
+          <option value='cat'>Cat</option>
+          <option value='fish'>Fish</option>
+          <option value='none'>None</option>
+        </select>
+
+        <button type='submit'>SEND IT!</button>
+
+      </fieldset>
+    </form>
     <script src="apps.js"></script>
   </body>
 </html>
+
+<!-- need to figure out how to enter decimal points -->
