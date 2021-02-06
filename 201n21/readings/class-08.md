@@ -32,6 +32,15 @@
  - Floating elements - floating elements allows you to take an element out of normal flow and position it to the far left or right of a containing box
   - float: left/right
 - overlapping elements
+  - z-index
+
+### Screen layout considerations
+ -   Screen sizes
+ - Screen resolutions
+ - Page sizes
+ - Fixed width layouts
+ - liquid layouts
+
   
 
  
