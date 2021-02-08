@@ -47,13 +47,20 @@ Event Handling
 - <article onClick='handleClick'> 
 - element.onEvent='functionName;button(document.getElementByID('button')).onSubmit = handleEvent...etc
 
-## Partner Power Hour
+## Partner Power Hour 2.6.2021
 - Who was the speaker(s) and what company or companies were they from? What was the topic of the talk?
-
+  - Alexander Gounares - Polyverse - Cyber Security  **Bill Gates's former tech advisor**
 - Share 1 or 2 ways the speaker’s information will change your approach to your career transition.
+    - perfection is not assume Perfection is just working harder.
+    - Accept imperfection and find ways to adapt and minimize the imperfections
 
 - Do you have any other key take-aways, or observations about this Partner Power Hour?
+    - assume imperfections and make exploiting flaws more difficult
+    - security = entropy > information leakage
+    - Zero Trust Cyber Security - trust nothing, protect everything
+    - keep things moving around
 
-
+  - I think it would be interesting to try and incorporate the think weeks into a yearly calender for a team and see how that improves the team. It's a great personal goal also.
+- 
 
 - [Main Page](https://jinman36.github.io/reading-notes/)
