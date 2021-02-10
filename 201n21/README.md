@@ -28,6 +28,7 @@
 1. [Reading Assignment 7](readings/class-07.md)
 1. [Reading Assignment 8](readings/class-08.md)
 1. [Reading Assignment 9](readings/class-09.md)
+1. [Reading Assignment 10](readings/class-10.md)
 
 ## Test pages
 - [JavaScript](apps,js)
