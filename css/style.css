@@ -1,0 +1,28 @@
+body {
+  margin: 10px 150px;
+  /* width: 980px; */
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h3 {
+  color: gray;
+}
+
+span {
+  display: inline-block;
+}
+
+nav {
+  margin-top: 10px;
+  float: right;
+}
+
+#print {
+  display: inline-block
+}
+
+
+
