@@ -68,10 +68,12 @@
   - A - 
   - R - 
 9. Tell me about a time when you raised the bar.
-  - S - 
-  - T - 
-  - A - 
-  - R - 
+  - S - when I first left active duty military, I went into the Hiring our Heros corporate fellowship with McKinstry. During my fellowship time, 
+  - T - My task was to compile data from several different organic trades, as well as subcontractors into a shared document to present to the customer each week to record daily progress throughout the project. This 
+  - A - I was able to raise the bar by supplying each trade representative a google sheets to be utilized each week to fill in thier respective workflow.   
+  - R - This resulted over the course of a two year project +$20K saved time and burdon.  the trades personnel had a dedicated place to enter informaiton into each week, which also accounted for unrealized gain.
+    - This raised the bar because it alerted the IT section that we had a leak in productivity. I took an extended military leave of absence and upon my return the company had instituted a sharepoint form through the standardization dept to correct the deficency that I noted.
+    
 10. Tell me about a time you improved a complex process.
   - S - 
   - T - 
@@ -83,10 +85,11 @@
   - A - 
   - R - 
 12. **What's an example of a time that a project failed?**
-  - S - 
-  - T - 
-  - A - 
-  - R - 
+  - S - New member on the ODA, wanted to prove myself and my prior experience with operations management - upcoming JCET (joint Combined Exchange Training) in the phillipines.
+  - T - Prepare the operations/ logistics plan, training agenda, and schedule for upcoming training seminar in PI
+  - A - While getting these items together there were several snags in the individual tasks that needed to work out, different clearances for items to travel abroad and rules that I wasn't as familiar with as I should have been to take on the task that I was undergoing.
+  - R - I let my ego drive for longer than I should have. Certain items needed to have higher elevations of clearance to be brought into country. Once we realized that I had missed this date I called in another member of the team to assist and ensure that no more milestones were missed. We re-evaluated the training plan and had to exclude the items ( Mortars, AT munitions) from the training plan that we had set up and adjust.
+      - I have been able to use the lessons learned on this several times by ensuring I understand which items are teh critical path to project completion, and which items have less of a lead time to be able to better prioritize what is important to moving a project forward.
 
   - S - 
   - T - 

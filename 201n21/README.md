@@ -37,6 +37,7 @@
 - [Style](style.css)
 - [Interview Questions](interviewQuestions.md)
 - [live link](https://jinman36.github.io/reading-notes/)
+- [MeetUp and Talk to Your Network Assignment](meetUp-talkToYourNet.md)
 
 ## Code 102 Class Notes
 - [Code 102 Class notes](../102n48/README.md)
