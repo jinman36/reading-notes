@@ -11,19 +11,83 @@
 # Amazon
 ### Leadership Principles
 1. customer Obsession
+    - Can you tell me about a time you obsessed over giving very high quality service to a customer?
+        - S - While part of a team overseeing the Major Mechanical construction of a 130K sq ft Bio pharma faciltiy, which I am primarily responsiple for managing the Process/ GMP validated systems.
+        - T - Ensure that that all GMP/ Process systems pass FDA validation - including several 3rd party validation team inspections.
+        - A - Manage the validation teams to ensure they remain in scope and on target to meet challenging deadlines.
+        - R - Due to the fact that we have worked ahead of schedule, the facility has been awarded a contract to become part of operation warp speed (DOD contract) and will begin to developing producing monoclonal antibodies (mAbs) 2 months earlier than original projected with a TCO.
+
 2. Ownership
+    - Tell me about a time when you took on a task that went beyond your normal responsibilities.
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 3. Invent & simplify
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 4. Are right, a lot
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 5. Learn and be cautious
+    - Tell me about an experience you went through that changed your way of thinking.
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 6. Hire and Develop the Best
+    - What qualities do you look for most when hiring others?
+      - S - Over the course of my Military career, I didn't get a lot of choices on who came to my team - or who would get pulled away. The short time you spend with who comes has made me more aware of who I put my name on now.
+      - T - As a former Hiring our Heroes Corporate Fellow, I still work with every group coming through that program and realize that every company involved is looking to recruit the best from each group.
+      - A - recognize the workers that want to excel and have a track record of going above and beyond. Coming into new roles will often times require an open mind and the willingness to want to learn the ropes but while they are learning how things have always been done, they should be asking "why", a lot.
+      - R - I have personnaly vouched and mentored 2 employees coming through the Fellowship program. They are still very promising workers and I stand by the recommendations I gave to them.
 7. Insist on the Highest Standards
+    - Tell me about a time when you raised the bar.
+      - S - when I first left active duty military, I went into the Hiring our Heros corporate fellowship with Mckinstry. During my fellowship time, 
+      - T - My task was to compile data from several different organic trades, as well as subcontractors into a shared document to present to the customer each week to record daily progress throughout the project. This 
+      - A - I was able to raise the bar by supplying each trade representative a google sheets to be utilized each week to fill in their respective workflow.   
+      - R - This resulted over the course of a two year project +$20K saved time and burden.  the trades personnel had a dedicated place to enter information into each week, which also accounted for unrealized gain.
+      - This raised the bar for the organization because the company has since launch and instituted a network site that bridges the gap that I helped acknowledge.
 8. Think big
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 9. Bias for Action
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 10. Frugality
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 11. Earn trust
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 12. Dive Deep
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 13. Have Backbone; Disagree and commit
+    - Tell me about a time when you had to step up and disagree with a managers decision.
+      - S - During an Afghanistan rotation, I was at a remote out station that was experiencing significant rocket and mortar fire. The U.S. Area Commanders had decided to retrograde my camp and disable and move the Counter Mortar and Rocket System prior to personnel being moved.
+      - T - Stop the removal of this equipment, and help the decis
+      - A - 
+      - R - 
 14. Deliver Results
+      - S - 
+      - T - 
+      - A - 
+      - R - 
 
 ### Sample Questions
 1. Give me an example of a calculated risk that you have taken where speed was critical.
@@ -73,12 +137,7 @@
   - A - Developed a detailed tracking method to ensure that all 36 main/reserve parachutes remained in service for all team members throughout the show calender.
   - R - Resulted in 100% mission completion with 0 malfunctions in certified life safety components.
 
-9. Tell me about a time when you raised the bar.
-  - S - when I first left active duty military, I went into the Hiring our Heros corporate fellowship with Mckinstry. During my fellowship time, 
-  - T - My task was to compile data from several different organic trades, as well as subcontractors into a shared document to present to the customer each week to record daily progress throughout the project. This 
-  - A - I was able to raise the bar by supplying each trade representative a google sheets to be utilized each week to fill in their respective workflow.   
-  - R - This resulted over the course of a two year project +$20K saved time and burden.  the trades personnel had a dedicated place to enter information into each week, which also accounted for unrealized gain.
-    - This raised the bar because it alerted the IT section that we had a leak in productivity. I took an extended military leave of absence and upon my return the company had instituted a Share Point form through the standardization dept to correct the deficiency that I noted.
+
 
 10. Tell me about a time you improved a complex process.
   - S - 
