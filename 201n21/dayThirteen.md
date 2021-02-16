@@ -20,7 +20,28 @@
 - GOAT pick
 - 
 
+- Unshift provides a que like behavior
 
+- Example repl-it code demonstrating a nested while loop and unshift - creating 6 unique numbers and queing them through the console
+<!-- let uniqueValues = [];
+
+function numberFun(){
+while (uniqueValues.length < 6) {
+  let indexArray = getRandomNumber(haystack.length);
+  while (uniqueValues.includes(indexArray)) {
+    indexArray = getRandomNumber(haystack.length);
+}
+uniqueValues.unshift(indexArray)
+}
+console.log(uniqueValues);
+let thingOne = uniqueValues.pop();
+let thingtwo = uniqueValues.pop();
+let thingThree = uniqueValues.pop();
+}
+
+
+numberFun();
+console.log(uniqueValues) -->
 
 
 

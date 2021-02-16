@@ -1,7 +1,7 @@
 ## Interview Prep
 
 ## Table of Contents
-1. [Amazon](#amazon)fy
+1. [Amazon](#amazon)
 1. [leadership Principles](#leadership-principles)
 
 ## Links
@@ -63,10 +63,11 @@
       - A - 
       - R - 
 10. Frugality
-      - S - 
-      - T - 
-      - A - 
-      - R - 
+    - Tell me about a time when you had to work with limited time or resources.
+      - S - One of the most challenging aspects of working with the Special Forces is we never train a tactic or plan that our partner force cannot do without us. My first trip to the middle east, we were tasked to help the local command establish logistics and supply inventories, since their HQ had stopped supplying them because they believed their inventory controls were not adequate. I walked into the office of the Commander and CSM and sat down to speak about the issues they are facing with this. While sitting in an hour meeting, they had multiple rolling blackouts and I realized the computer on the desk had no wires connected to it.
+      - T - Establish inventory control and tracking measures sustainable for an unreliable network and power grid
+      - A - Utilizing white boards and tri-folds I advised the motor /weapons /communication NCOs basic reporting structures that could be briefed at a centralized CUB and then deciminated to the higher HQ
+      - R - Facilitated 6 supply convoys, to the main HQ. communicated and coordianted 30 airborne supply drops to remote locations within the AO
 11. Earn trust
       - S - 
       - T - 
@@ -79,15 +80,22 @@
       - R - 
 13. Have Backbone; Disagree and commit
     - Tell me about a time when you had to step up and disagree with a managers decision.
-      - S - During an Afghanistan rotation, I was at a remote out station that was experiencing significant rocket and mortar fire. The U.S. Area Commanders had decided to retrograde my camp and disable and move the Counter Mortar and Rocket System prior to personnel being moved.
-      - T - Stop the removal of this equipment, and help the decis
-      - A - 
-      - R - 
+      - S - During an overseas rotation, I was at a remote out station that was experiencing significant rocket and mortar fire. The U.S. Area Commanders had decided to retrograde my camp and disable and move the Counter Mortar and Rocket System prior to personnel being moved.
+      - T - Enable the local unit, responsible for assets, to remain in place until a better retrograde plan could be established by influence country level decision makers to reverse orders that had been previously issued
+      - A -  Developed plan that included metrics for attacks, square footage of camp, area of damage from most used munition, # of rounds used per attacks to influence the majority of stake holders on camp to push this to increasingly higher echelons until the decision to re-evaluate the strategic disadvantage removing the asset could cause for the inhabitants of the camp.
+      - R - Orders were reciended, brigade level counter artillery battery remained in place until a better retrograde plan was established - after I was no longer in theater
+
 14. Deliver Results
+    - By providing an example, tell me when you have had to handle a variety of assignments. Describe the results.
       - S - 
       - T - 
       - A - 
       - R - 
+
+
+
+
+
 
 ### Sample Questions
 1. Give me an example of a calculated risk that you have taken where speed was critical.
