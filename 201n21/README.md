@@ -30,6 +30,7 @@
 1. [Reading Assignment 9](readings/class-09.md)
 1. [Reading Assignment 10](readings/class-10.md)
 1. [Reading Assignment 11](readings/class-11.md)
+1. [Reading Assignment 12](readings/class-12.md)
 
 ## Test pages
 - [JavaScript](apps,js)
