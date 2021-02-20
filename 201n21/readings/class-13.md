@@ -39,3 +39,10 @@
 
   - LocalStorage.setItem('itemName",data)
   - LocalStorage.getItem('itemName",data)
+### Example
+ - let stringifiedProducts = JSON.stringify(allProducts)
+ - stringifiedProducts
+ -  localStorage.setItem('Products', stringifiedProducts)
+
+ - let retrievedGoats = localStorage.getItem('products');
+ - let parsedProducts = JSON.parse(retrievedProducts);
