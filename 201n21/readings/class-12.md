@@ -1,5 +1,5 @@
-# Reading Assignment - 11
-### Date 2-13-2021
+# Reading Assignment - 12
+### Date 2-16-2021
  
 ## Summarize the topics in the below chapters
 1. [Chart JS](#chart-js)
