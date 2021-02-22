@@ -46,3 +46,13 @@
 
  - let retrievedGoats = localStorage.getItem('products');
  - let parsedProducts = JSON.parse(retrievedProducts);
+
+ ## Partner Power Hour
+ - Who was the speaker(s) and what company or companies were they from? What was the topic of the talk?
+- Micha Goebig - Go Big Consulting - Imposter Syndrome
+
+- Share 1 or 2 ways the speaker’s information will change your approach to your career transition.
+ - recognize your expertise and abilities - have faith in what you are doing and recognize you are there because you deserve to be where you are.
+ - Take baby steps - eat the elephant one bite at a time, no need to accomplish it all at once.
+- Do you have any other key take-aways, or observations about this Partner Power Hour?
+- It was great listening to Micha speak. Imposter syndrome is definetly a relevant issue for people trying to break out of thier normal roles in life to learn software develpment in a bootcamp atmosphere
