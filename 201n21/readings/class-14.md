@@ -1,4 +1,4 @@
-# Reading Assignment - 14A
+# Reading Assignment - 14A / B
 ### Date 2-23-2021
  
 ## Summarize the topics in the below chapters
