@@ -101,10 +101,47 @@ CSS
 ### Transform Origin
 - the transform-origin property can accept one or two values. When only one value is specified, that value is used for both the horizontal and vertical axis. If two values are specified, the first is used for the horizontal and the the second for th evert axis.
 
-
-
-
 ## CSS Transitions & Animations
+- Transistion Psudo classes - :hover, :focus, :active, :target
 
+- transition related properties - transition-property, transition-duration, transition-timing-function, and transition-delay
+
+- Not all Properties may be transitioned, only properties with an identifiable halfway point.
+
+    - background-color
+    - background-position
+    - border-color
+    - border-width
+    - border-spacing
+    - bottom
+    - clip
+    - color
+    - crop
+    - font-size
+    - font-weight
+    - height
+    - left
+    - letter-spacing
+    - line-height
+    - margin
+    - max-height
+    - max-width
+    - min-height
+    - min-width
+    - opacity
+    - outline-color
+    - outline-offset
+    - outline-width
+    - padding
+    - right
+    - text-indent
+    - text-shadow
+    - top
+    - vertical-align
+    - visibility
+    - width
+    - word-spacing
+    - z-index
+  
 
 # CSS3 transitions
