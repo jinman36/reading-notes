@@ -17,7 +17,7 @@
 1. [6 Buttons animated](#6-Buttons-animated)
   - [6 Buttons animated](http://codepen.io/retyui/pen/ByoaXV)
 
-1. [CSS3 Animations: Keyframes](#CSS3 Animations:-Keyframes]
+1. [CSS3 Animations: Keyframes](#CSS3-Animations-keyframes]
   - [CSS3 Animations: Keyframes](http://codepen.io/akshaychauhan/pen/oAfae)
 
   1. [404](#404)
@@ -39,12 +39,12 @@
     
 # CSS Transform Property
 - CSS3
-  <!-- div {
-  -webkit-transform: scale(1.5);
-     -moz-transform: scale(1.5);
-       -o-transform: scale(1.5);
-          transform: scale(1.5);
-} -->
+>div {
+>  -webkit-transform: scale(1.5);
+>     -moz-transform: scale(1.5);
+>       -o-transform: scale(1.5);
+>          transform: scale(1.5);
+>}
 
 - The vendor prefixes are encouraged for all production environments for the commands in this chapter 
 
@@ -67,41 +67,41 @@
  - this is possible but can be tricky
  - Use a transform matrix - similar to the cube matrix example below:
  2D Cube Demo
-<!-- HTML
-<div class="cube">
-  <figure class="side top">1</figure>
-  <figure class="side left">2</figure>
-  <figure class="side right">3</figure>
-</div>
+HTML
+><div class="cube">
+>  <figure class="side top">1</figure>
+>  <figure class="side left">2</figure>
+>  <figure class="side right">3</figure>
+></div>
 
                 
 CSS
 
-.cube {
-  position: relative;
-}
-.side {
-  height: 95px;
-  position: absolute;
-  width: 95px;
-}
-.top {
-  background: #9acc53;
-  transform: rotate(-45deg) skew(15deg, 15deg);
-}
-.left {
-  background: #8ec63f;
-  transform: rotate(15deg) skew(15deg, 15deg) translate(-50%, 100%);
-}
-.right {
-  background: #80b239;
-  transform: rotate(-15deg) skew(-15deg, -15deg) translate(50%, 100%);
-} -->
+>.cube {
+>  position: relative;
+>}
+>.side {
+>  height: 95px;
+>  position: absolute;
+>  width: 95px;
+>}
+>.top {
+>  background: #9acc53;
+>  transform: rotate(-45deg) skew(15deg, 15deg);
+>}
+>.left {
+>  background: #8ec63f;
+>  transform: rotate(15deg) skew(15deg, 15deg) translate(-50%, 100%);
+>}
+>.right {
+>  background: #80b239;
+>  transform: rotate(-15deg) skew(-15deg, -15deg) translate(50%, 100%);
+>}
               
 ### Transform Origin
 - the transform-origin property can accept one or two values. When only one value is specified, that value is used for both the horizontal and vertical axis. If two values are specified, the first is used for the horizontal and the the second for th evert axis.
 
-## CSS Transitions & Animations
+# CSS Transitions & Animations
 - Transistion Psudo classes - :hover, :focus, :active, :target
 
 - transition related properties - transition-property, transition-duration, transition-timing-function, and transition-delay
@@ -143,5 +143,146 @@ CSS
     - word-spacing
     - z-index
   
+# CSS-transitions-&-animations
+###  Fade - in
+>.fade
+>{
+>        opacity:0.5;
+>}
+>.fade:hover
+>{
+>        opacity:1;
+>}
 
-# CSS3 transitions
+### Change COlor
+>.color:hover
+>{
+>        background:#53a7ea;
+>}
+
+### Grow and SHrink
+>.grow:hover
+>{
+>        -webkit-transform: scale(1.3);
+>        -ms-transform: scale(1.3);
+>        transform: scale(1.3);
+>}
+
+>.shrink:hover
+>{
+>        -webkit-transform: scale(0.8);
+>        -ms-transform: scale(0.8);
+>        transform: scale(0.8);
+>}
+
+
+### Rotate Elements
+>.rotate:hover
+>{
+>        -webkit-transform: rotateZ(-30deg);
+>        -ms-transform: rotateZ(-30deg);
+>        transform: rotateZ(-30deg);
+>}
+
+### Square to circle
+>.circle:hover
+>{
+>        border-radius:50%;
+>}
+
+### 3D Shadow
+>.threed:hover
+>{
+>        box-shadow:
+>                1px 1px #53a7ea,
+>                2px 2px #53a7ea,
+>                3px 3px #53a7ea;
+>        -webkit-transform: translateX(-3px);
+>        transform: translateX(-3px);
+>}
+
+### Swing 
+- requires all of the follwoing - then the lower css tag to identify the hover element for this feature
+
+>@-webkit-keyframes swing
+>{
+>    15%
+>    {
+>        -webkit-transform: translateX(5px);
+>        transform: translateX(5px);
+>    }
+>    30%
+>    {
+>        -webkit-transform: translateX(-5px);
+>       transform: translateX(-5px);
+>    } 
+>    50%
+>    {
+>        -webkit-transform: translateX(3px);
+>        transform: translateX(3px);
+>    }
+>    65%
+>    {
+>        -webkit-transform: translateX(-3px);
+>        transform: translateX(-3px);
+>    }
+>    80%
+>    {
+>        -webkit-transform: translateX(2px);
+>        transform: translateX(2px);
+>    }
+>    100%
+>    {
+>        -webkit-transform: translateX(0);
+>        transform: translateX(0);
+>    }
+>}
+>@keyframes swing
+>{
+>    15%
+>    {
+>        -webkit-transform: translateX(5px);
+>        transform: translateX(5px);
+>    }
+>    30%
+>    {
+>        -webkit-transform: translateX(-5px);
+>        transform: translateX(-5px);
+>    }
+>    50%
+>    {
+>        -webkit-transform: translateX(3px);
+>        transform: translateX(3px);
+>    }
+>    65%
+>    {
+>        -webkit-transform: translateX(-3px);
+>        transform: translateX(-3px);
+>    }
+>    80%
+>    {
+>        -webkit-transform: translateX(2px);
+>        transform: translateX(2px);
+>    }
+>    100%
+>    {
+>        -webkit-transform: translateX(0);
+>        transform: translateX(0);
+>    }
+>}
+
+>.swing:hover
+>{
+>        -webkit-animation: swing 1s ease;
+>        animation: swing 1s ease;
+>        -webkit-animation-iteration-count: 1;
+>        animation-iteration-count: 1;
+>}
+
+### Inset Border
+>.border:hover
+>{
+>        box-shadow: inset 0 0 0 25px #53a7ea;
+>}
+
+# Animated buttons in codepen are fun!

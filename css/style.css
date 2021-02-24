@@ -4,7 +4,8 @@ body {
 }
 
 h1 {
-  font-size: 2em;
+  border-width: 5px;
+  border: dashed blue;
 }
 
 h3 {
