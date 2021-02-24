@@ -69,7 +69,7 @@ div {
  - Use a transform matrix - similar to the cube matrix example below:
  2D Cube Demo
 HTML
-```CSS
+```HTML
 <div class="cube">
   <figure class="side top">1</figure>
   <figure class="side left">2</figure>
@@ -295,6 +295,6 @@ CSS
 {
         box-shadow: inset 0 0 0 25px #53a7ea;
 }
+```
 
 # Animated buttons in codepen are fun!
-```
