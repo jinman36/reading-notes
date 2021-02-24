@@ -28,9 +28,9 @@
 
 
 # Google
-- Project Aristotle was aimed at researching team at Google, in hopes, to find a coorelation of what made great teams function better than others. This information could then be used towards teh ‘‘employee performance optimization’’ movement and help the  entire organization become a better more productive machine.
+- Project Aristotle was aimed at researching team at Google, in hopes, to find a coorelation of what made great teams function better than others. This information could then be used towards the ‘‘employee performance optimization’’ movement and help the  entire organization become a better more productive machine.
 
-- The interesting take aways for me include the following:
+- The interesting take always for me include the following:
   - One engineer, for instance, had told researchers that his team leader was ‘‘direct and straightforward, which creates a safe space for you to take risks.’’
 
   - psychological safety
@@ -39,13 +39,14 @@
     
 # CSS Transform Property
 - CSS3
->div {
->  -webkit-transform: scale(1.5);
->     -moz-transform: scale(1.5);
->       -o-transform: scale(1.5);
->          transform: scale(1.5);
->}
-
+```CSS
+div {
+  -webkit-transform: scale(1.5);
+     -moz-transform: scale(1.5);
+       -o-transform: scale(1.5);
+          transform: scale(1.5);
+}
+```
 - The vendor prefixes are encouraged for all production environments for the commands in this chapter 
 
 ### 2D Transforms
@@ -68,36 +69,37 @@
  - Use a transform matrix - similar to the cube matrix example below:
  2D Cube Demo
 HTML
-><div class="cube">
->  <figure class="side top">1</figure>
->  <figure class="side left">2</figure>
->  <figure class="side right">3</figure>
-></div>
-
+```CSS
+<div class="cube">
+  <figure class="side top">1</figure>
+  <figure class="side left">2</figure>
+  <figure class="side right">3</figure>
+</div>
+```
                 
 CSS
-
->.cube {
->  position: relative;
->}
->.side {
->  height: 95px;
->  position: absolute;
->  width: 95px;
->}
->.top {
->  background: #9acc53;
->  transform: rotate(-45deg) skew(15deg, 15deg);
->}
->.left {
->  background: #8ec63f;
->  transform: rotate(15deg) skew(15deg, 15deg) translate(-50%, 100%);
->}
->.right {
->  background: #80b239;
->  transform: rotate(-15deg) skew(-15deg, -15deg) translate(50%, 100%);
->}
-              
+```CSS
+.cube {
+  position: relative;
+}
+.side {
+  height: 95px;
+  position: absolute;
+  width: 95px;
+}
+.top {
+  background: #9acc53;
+  transform: rotate(-45deg) skew(15deg, 15deg);
+}
+.left {
+  background: #8ec63f;
+  transform: rotate(15deg) skew(15deg, 15deg) translate(-50%, 100%);
+}
+.right {
+  background: #80b239;
+  transform: rotate(-15deg) skew(-15deg, -15deg) translate(50%, 100%);
+}
+```              
 ### Transform Origin
 - the transform-origin property can accept one or two values. When only one value is specified, that value is used for both the horizontal and vertical axis. If two values are specified, the first is used for the horizontal and the the second for th evert axis.
 
@@ -145,144 +147,154 @@ CSS
   
 # CSS-transitions-&-animations
 ###  Fade - in
->.fade
->{
->        opacity:0.5;
->}
->.fade:hover
->{
->        opacity:1;
->}
-
+```CSS
+.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
+```
 ### Change COlor
->.color:hover
->{
->        background:#53a7ea;
->}
-
+```CSS
+.color:hover
+{
+        background:#53a7ea;
+}
+```
 ### Grow and SHrink
->.grow:hover
->{
->        -webkit-transform: scale(1.3);
->        -ms-transform: scale(1.3);
->        transform: scale(1.3);
->}
-
->.shrink:hover
->{
->        -webkit-transform: scale(0.8);
->        -ms-transform: scale(0.8);
->        transform: scale(0.8);
->}
-
+```CSS
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+```
+```CSS
+.shrink:hover
+{
+        -webkit-transform: scale(0.8);
+        -ms-transform: scale(0.8);
+        transform: scale(0.8);
+}
+```
 
 ### Rotate Elements
->.rotate:hover
->{
->        -webkit-transform: rotateZ(-30deg);
->        -ms-transform: rotateZ(-30deg);
->        transform: rotateZ(-30deg);
->}
-
+```CSS
+.rotate:hover
+{
+        -webkit-transform: rotateZ(-30deg);
+        -ms-transform: rotateZ(-30deg);
+        transform: rotateZ(-30deg);
+}
+```
 ### Square to circle
->.circle:hover
->{
->        border-radius:50%;
->}
-
+```CSS
+.circle:hover
+{
+        border-radius:50%;
+}
+```
 ### 3D Shadow
->.threed:hover
->{
->        box-shadow:
->                1px 1px #53a7ea,
->                2px 2px #53a7ea,
->                3px 3px #53a7ea;
->        -webkit-transform: translateX(-3px);
->        transform: translateX(-3px);
->}
-
+```CSS
+.threed:hover
+{
+        box-shadow:
+                1px 1px #53a7ea,
+                2px 2px #53a7ea,
+                3px 3px #53a7ea;
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+}
+```
 ### Swing 
 - requires all of the follwoing - then the lower css tag to identify the hover element for this feature
-
->@-webkit-keyframes swing
->{
->    15%
->    {
->        -webkit-transform: translateX(5px);
->        transform: translateX(5px);
->    }
->    30%
->    {
->        -webkit-transform: translateX(-5px);
->       transform: translateX(-5px);
->    } 
->    50%
->    {
->        -webkit-transform: translateX(3px);
->        transform: translateX(3px);
->    }
->    65%
->    {
->        -webkit-transform: translateX(-3px);
->        transform: translateX(-3px);
->    }
->    80%
->    {
->        -webkit-transform: translateX(2px);
->        transform: translateX(2px);
->    }
->    100%
->    {
->        -webkit-transform: translateX(0);
->        transform: translateX(0);
->    }
->}
->@keyframes swing
->{
->    15%
->    {
->        -webkit-transform: translateX(5px);
->        transform: translateX(5px);
->    }
->    30%
->    {
->        -webkit-transform: translateX(-5px);
->        transform: translateX(-5px);
->    }
->    50%
->    {
->        -webkit-transform: translateX(3px);
->        transform: translateX(3px);
->    }
->    65%
->    {
->        -webkit-transform: translateX(-3px);
->        transform: translateX(-3px);
->    }
->    80%
->    {
->        -webkit-transform: translateX(2px);
->        transform: translateX(2px);
->    }
->    100%
->    {
->        -webkit-transform: translateX(0);
->        transform: translateX(0);
->    }
->}
-
->.swing:hover
->{
->        -webkit-animation: swing 1s ease;
->        animation: swing 1s ease;
->        -webkit-animation-iteration-count: 1;
->        animation-iteration-count: 1;
->}
-
+```CSS
+@-webkit-keyframes swing
+{
+    15%
+    {
+        -webkit-transform: translateX(5px);
+        transform: translateX(5px);
+    }
+    30%
+    {
+        -webkit-transform: translateX(-5px);
+       transform: translateX(-5px);
+    } 
+    50%
+    {
+        -webkit-transform: translateX(3px);
+        transform: translateX(3px);
+    }
+    65%
+    {
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+    }
+    80%
+    {
+        -webkit-transform: translateX(2px);
+        transform: translateX(2px);
+    }
+    100%
+    {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+@keyframes swing
+{
+    15%
+    {
+        -webkit-transform: translateX(5px);
+        transform: translateX(5px);
+    }
+    30%
+    {
+        -webkit-transform: translateX(-5px);
+        transform: translateX(-5px);
+    }
+    50%
+    {
+        -webkit-transform: translateX(3px);
+        transform: translateX(3px);
+    }
+    65%
+    {
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+    }
+    80%
+    {
+        -webkit-transform: translateX(2px);
+        transform: translateX(2px);
+    }
+    100%
+    {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+}
+```
+```CSS
+.swing:hover
+{
+        -webkit-animation: swing 1s ease;
+        animation: swing 1s ease;
+        -webkit-animation-iteration-count: 1;
+        animation-iteration-count: 1;
+}
+```
 ### Inset Border
->.border:hover
->{
->        box-shadow: inset 0 0 0 25px #53a7ea;
->}
+```CSS
+.border:hover
+{
+        box-shadow: inset 0 0 0 25px #53a7ea;
+}
 
 # Animated buttons in codepen are fun!
+```
