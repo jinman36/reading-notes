@@ -191,6 +191,10 @@ CSS
         transform: rotateZ(-30deg);
 }
 ```
+- Additonal rotation
+- skew
+- scaleX(1.5)
+
 ### Square to circle
 ```CSS
 .circle:hover
@@ -211,7 +215,7 @@ CSS
 }
 ```
 ### Swing 
-- requires all of the follwoing - then the lower css tag to identify the hover element for this feature
+- requires all of the following - then the lower css tag to identify the hover element for this feature
 ```CSS
 @-webkit-keyframes swing
 {

@@ -1,9 +1,6 @@
 # Code 201 Reading Notes
 
-## Table of Contents
- - [Day 1](dayOneNotes.md)
- - [Day 2](dayTwoNotes.ms)
- - [Day 3](dayThreeNotes.md)
+it stat
  - [Day 4](dayFourNotes.md)
  - [Day 5](dayFiveNotes.md)
  - [Day 6](daySixNotes.md)
