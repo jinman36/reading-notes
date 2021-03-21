@@ -1,0 +1,15 @@
+3-20-2021
+ Node.JS
+ Node package manager
+ puppeterr
+
+ - npm install puppeteer
+
+ - what is my user agent? - type in browser
+
+ - proof of life - scrapping for the green banner
+
+ - document.query selector('.emergencybanner > p').textContent
+
+
+ - Can scrap a website to compare stats from different websites
