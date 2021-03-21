@@ -13,3 +13,14 @@
 
 
  - Can scrap a website to compare stats from different websites
+
+
+ 1. [A Guide to Web Scraping with Node.js](https://www.youtube.com/watch?v=dXjKh66BR2U)
+
+ - Cross-Origin read blocking - Spectre
+
+ - Cheerioo - node.js implementation of j.query - 
+ - cors - which urls have access to this function
+ - git urls - utilitiy for extracting urls from string
+ - puppeter - version of chrome that runs in node.js
+ 
