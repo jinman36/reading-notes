@@ -47,3 +47,10 @@ JSX - JavaScript Syntax Extention
 ## Setting Up a React Project
 - In terminal, move to desired application folder, npx create-react-app (project name)
 
+To run project
+- npm run start
+
+- if a downloaded project is missing node modules folder the following will re-create it in the folder for use - which is important for all the project dependencies
+  - npm install
+
+- Installing this hot fix is an issue
