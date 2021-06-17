@@ -2,9 +2,13 @@
 
 ## Table of Contents
 1. [Things to know first](#things-to-know-first)
+1. [Setting Up a React Project](#setting-up-a-react-project)
 
 ## Links
 1. [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8&list=WL&index=8&t=5s)
+1. [Full React Tutorial #2 - Creating a React Application](https://www.youtube.com/watch?v=kVeOpcw4GWY)
+1. [Create React App](https://create-react-app.dev/)
+
 
 ## Vocabulary
 JSX - JavaScript Syntax Extention
@@ -38,3 +42,8 @@ JSX - JavaScript Syntax Extention
 
 7. Every component manages its own ____.
 - State and has the ability to pass it down to its children
+
+
+## Setting Up a React Project
+- In terminal, move to desired application folder, npx create-react-app (project name)
+
