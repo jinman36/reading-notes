@@ -138,7 +138,7 @@
 
 - Stuff we learnt
     - X! - shebang
-    -echo - print message to the screen
+    - echo - print message to the screen
     - which - tells you the path to a particular program
     - $ - placed before a variable name when we are referring to it's value
     - ```(backticks) - used to save the output of a program into a variable
