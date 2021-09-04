@@ -34,7 +34,7 @@
     let user = 'ryan';
 
     function greetWorld() {
-      console.,log('hello)
+      console.,log('hello')
     }
  
   - greetworld();
