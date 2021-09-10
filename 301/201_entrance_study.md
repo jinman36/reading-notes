@@ -36,7 +36,7 @@
 
 8. Which of these combinations evaluates to true
 
-- 
+-
 true && false
 
 false && true
@@ -63,4 +63,50 @@ false && false
   - chosen because I do not recognize the =!
 
 ## Quiz 2
-1. 
+
+1. HTML attributes and CSS declarations are examples of key-value pairs.
+
+- True
+
+2. Assuming there are no other CSS declarations, and no inline CSS styles, what will the following CSS declaration do to the body element and other HTML elements inside the body tag?
+
+body {
+color: white;
+background-color: black;
+}
+
+- Change background color of all HTML elements within body to black and change color of all text to white
+
+3. Please pick the statement that best describes the default display for the HTML elements listed below:
+
+<span>
+<div>
+<h1>, <h2>, <h3>, <h3>, <h5>, <h6>
+<ul>
+
+- **Not correct** all listed elements, except <ul>, are block elements by default 
+
+4. Which of the following are true about HTML elements with inline display?
+
+- 1. The content of inline elements determines their default width - T
+- 2. <p> element will display inline by default - F
+- 3. All HTML elements with inline display can be changed to block display - T
+- 4. Inline elements flow within the text and do not start on a new line - T
+- 5. Inline elements cannot have any margins - F
+
+- 1, 3, 4
+
+5. Which of the following correctly lists the outside-in ordering of the components of the CSS “box model”?
+
+- Margin, Border, Padding, Content
+
+6. Pick the statement that best describes the following JavaScript code
+
+var movies = ["The Matrix", "Frozen"];
+typeof(typeof(movies));
+
+- The code will produce valid results as both typeof calls are invoked with valid JavaScript types
+
+7.
+
+-

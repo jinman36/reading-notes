@@ -50,14 +50,19 @@ Graph.prototype.addEdges = function(n){
 
 var graphObj = new Graph();
 
-console.log(true && false, false && true, false || false, true || true, true || false, false || true, true && true, false && false)
+// console.log(true && false, false && true, false || false, true || true, true || false, false || true, true && true, false && false)
 
- var gopher = 1;
- if (gopher < 10){ 
-    console.log('gopher');
- } else {
-   console.log('potato');
- }
+//  var gopher = 1;
+//  if (gopher < 10){ 
+//     console.log('gopher');
+//  } else {
+//    console.log('potato');
+//  }
+
+
+var movies = ["The Matrix", "Frozen"];
+
+console.log(typeof(typeof(movies)));
 
 
 
