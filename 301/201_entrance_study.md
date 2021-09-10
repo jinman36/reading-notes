@@ -4,6 +4,8 @@
 
 - [Quiz 1](#quiz_1)
 
+## Quiz 1
+
 1. Q1 - Which is the correct example of concatenation in JS?
 
 - 'I brush my ' +bodyPart + ' in the morning'
@@ -59,3 +61,6 @@ false && false
 
 - 1 =! loneliestNumber;
   - chosen because I do not recognize the =!
+
+## Quiz 2
+1. 
