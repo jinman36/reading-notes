@@ -107,6 +107,6 @@ typeof(typeof(movies));
 
 - The code will produce valid results as both typeof calls are invoked with valid JavaScript types
 
-7.
+7. Branching practice 3/4 correct
 
 -
