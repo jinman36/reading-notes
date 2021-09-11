@@ -8,7 +8,7 @@
 
 1. Q1 - Which is the correct example of concatenation in JS?
 
-- 'I brush my ' +bodyPart + ' in the morning'
+- 'I brush my ' + bodyPart + ' in the morning'
 
 2. What java script tag do you need to add JS to an HTML file
 
@@ -109,4 +109,35 @@ typeof(typeof(movies));
 
 7. Branching practice 3/4 correct
 
--
+## Quiz #3
+
+1. In JavaScript, the "=" operator is used for what purpose?
+
+- to assign a value to a variable
+
+2. What is the purpose of z-index in CSS positioning?
+
+- In a layout with overlapping elements, determines which element sits on top
+
+3. In our guessing game we used a conditional (if/else statement) to check for what/
+
+- If the guessed answer was equivalent to the stored answer
+
+4. What type of CSS positioning is a subset of absolute positioning and positions an element in relation to the browser window?
+
+- Fixed Positioning
+
+5. 
+var units = "years";
+var davidAge = 65;
+var johnAge = 40;
+var ageDifference = davidAge - johnAge;
+alert("The age difference is " + ageDifference + " " + units);
+
+Why should we make a separate variable for the age difference?
+
+- The code is more readable with an appropriately named variable, rather than including an arithmetic expression inside of parentheses inside of a concatenation.
+
+6. In JavaScript, what is the difference between the "==" and "===" operators?
+
+- "===" means equality without type coersion, meaning the two values being compared must be of the same data type (and value) to return true.
