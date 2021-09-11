@@ -141,3 +141,42 @@ Why should we make a separate variable for the age difference?
 6. In JavaScript, what is the difference between the "==" and "===" operators?
 
 - "===" means equality without type coersion, meaning the two values being compared must be of the same data type (and value) to return true.
+
+7. What type of CSS positioning takes an element out of normal flow and positions it in relation to its containing element?
+
+- Absolute positioning
+
+8. 
+var meows = true;
+while (meows = true) {
+  console.log('MEOW!');
+  meow = false;
+}
+console.log('Sorry, no meowing allowed.');
+
+- The code will cause an infinite loop and the console will log many many meows.
+
+9. 
+var breakfast = ['banana',
+                'chicken wing',
+                'coffee',
+                'eye of newt',
+                'pancakes',
+                'avocado',
+                'fish biscuit',
+                'pecan',
+                'corn dog'];
+var indexOne = 3;
+var indexTwo = 4;
+var indexThree = 6;
+for (var i = indexOne; i < indexThree; i++) {
+  console.log(breakfast[i]);
+}
+
+What will be the result of the following JavaScript code?
+
+- The following items will log into the console: eye of newt, pancakes, avocado
+
+10. What does the CSS property 'float' do?
+
+- Allows you to take an element in normal flow and place it as for to the left or the right of the containing element as possible
