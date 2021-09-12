@@ -72,10 +72,33 @@ console.log(typeof(typeof(movies)));
 // }
 
 
-function helloCodeFellows(){ 
-  console.log('testAlpha')
- }
-//  var testAlpha = helloCodeFellows();
- var testBeta = helloCodeFellows;
+// function Dog (name, age) {
+//   this.name = name;
+//   this.age = age;
+// }
+// var ageDiff = function(dog1, dog2) {
+//   return Math.abs(dog1.age - dog2.age);
+// }
 
- console.log(testBeta)
+// console.log(ageDiff(new Dog("Sparky", 12), new Dog("Molly", 8)));
+var dog = {
+  breed: "Beagle",
+  weight: 30,
+  group: "Hound"
+ }
+ var key = "weight";
+
+console.log(dog[key] === 30)
+
+console.log(dog["weight"] == "30");
+
+console.log("weight" in dog)
+
+console.log(dog.weight)
+// D. dog.weight
+
+console.log(dog.key === 30)
+// E. dog.key === 30;
+
+console.log(dog.hasOwnProperty('weight'))
+// F. dog.hasOwnProperty('weight');

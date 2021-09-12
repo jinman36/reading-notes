@@ -1,6 +1,7 @@
 body {
   margin: 10px 150px;
   /* width: 980px; */
+  height: 1200px;
 }
 
 h1 {
@@ -23,6 +24,12 @@ nav {
 
 #print {
   display: inline-block
+}
+
+h5 {
+  position: absolute; 
+  top: 2.3em;
+  left: 50%;
 }
 
 

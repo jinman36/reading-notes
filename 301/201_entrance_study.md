@@ -356,4 +356,82 @@ D. "float" CSS property can have pixel values such as "10px" or string values su
 
 E. "clear" CSS property can prevent content from trying to flow around or alongside a floated element -T-
 
-- A, B, C, D, E
+- **A, B, C, D, E**
+- A, B, And E
+
+5. Which of the following best describes fixed positioning?
+
+- The box is held in the same location even if the page is scrolled
+
+6. 
+Which of following statements are true about absolute positioning?
+
+A. Absolute positioning lets you determine an element’s location by specifying a left, right, top, or bottom position in pixels, ems, or percentages -T-
+
+B. Adding the following CSS properties to an element will always make it show up on top left corner of an HTML page
+
+     {
+        position: absolute; 
+        top: 0px;
+        left: 0px;
+     } -T_
+C. When using absolute positioning, an element is taken out of normal flow and is positioned in relation to the closest parent that is relatively positioned
+
+D. There is no difference between "position:absolute" and "position:fixed" CSS properties -F-
+
+- **A, B, C, D**
+- A & C
+
+7. 
+Which of the following statements would evaluate as truthy, given the below variable definitions?
+
+var dog = {
+ breed: "Beagle",
+ weight: 30,
+ group: "Hound"
+}
+var key = "weight";
+A. dog[key] === 30
+
+B. dog["weight"] == "30";
+
+C. "weight" in dog
+
+D. dog.weight
+
+E. dog.key === 30; -F-
+
+F. dog.hasOwnProperty('weight');
+
+- A, B, C, D & F
+
+8. 
+var john = new Object();
+john.name = "John Doe";
+john.age = 30;
+
+var henry = {
+  name: "Henry",
+  age: 24
+};
+
+Which of the following statements best describes the two objects above?
+
+- Both john and henry are valid objects and can have additional properties added to them
+
+9. 
+function Dog (name, age) {
+  this.name = name;
+  this.age = age;
+}
+var ageDiff = function(dog1, dog2) {
+  return Math.abs(dog1.age - dog2.age);
+}
+ageDiff(new Dog("Sparky", 12), new Dog("Molly", 8));
+
+- 
+The JavaScript engine will create two Dog objects, then pass them as arguments to function ageDiff
+
+10. In modern browsers, localStorage data is stored in:
+
+- The file system
