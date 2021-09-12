@@ -180,3 +180,180 @@ What will be the result of the following JavaScript code?
 10. What does the CSS property 'float' do?
 
 - Allows you to take an element in normal flow and place it as for to the left or the right of the containing element as possible
+
+## Quiz 4
+
+1. What does Math.floor() do?
+
+- It truncates the decimal values from a floating point number
+
+2. When used inside of an object, this refers to:
+
+- The object that it is used in
+
+3. var rabbit = {}; 
+This line of code creates an object by using:
+
+- object literal notation
+
+4. In the line of code
+
+var turtle = newAnimal("Michelangelo",1);
+"Michelangelo" and 1 are:
+
+- Arguments
+
+5. What is the term we use for a function that is associated with (or, attached to) an object?
+
+- a method
+
+6. True/false: An object is a collection of properties and methods.
+
+- True
+
+7. True/false: Figuring out your problem domain should only be done after you start writing code; otherwise you do not know whether the code actually works.
+
+- false
+
+8. What does DOM stand for?
+
+- Document Object Model
+
+9. True/false: Javascript cannot be used to manipulate HTML elements; it is only used in web applications to solve arithmetic calculations.
+
+- false
+
+10. Invoke the wizardsOfMiddleEarth function.
+
+function wizardsOfMiddleEarth() {
+  this.gray = "Gandalf";
+  this.white = "Saurumon";
+  this.brown = "Radaghast"; 
+  this.blue = ["Alatar", "Pallando"];
+  return this.gray + this.white + this.brown + this.blue[0] + this.blue[1];
+}
+
+- wizardsOfMiddleEarth();
+
+## Quiz 5
+
+1. A function ____________ loads before any code is executed.
+
+- declaration
+
+2. The elements we need to put inside of a form are: input, button and _____?
+
+- label
+
+3. 
+What is the error in the following JavaScript code, assuming that there is a button in the corresponding HTML with an ID of "pugbomb":
+
+var pugbombButton = document.getElementById('pugbomb');
+pugbombButton.addEventListener('click', pugbombButtonHandler());
+
+function pugbombButtonHandler() {
+  alert('PUGBOMB!!!!');
+}
+
+- The handler function is being called inside of the event listener
+
+4. A function __________ loads only when the interpreter reaches that line of code.
+
+- expression
+
+5. 
+In the following code which line shows the conflicting code from your working branch?
+
+1    <<<<<<<<<<< HEAD
+2    <h1>Code Fellows</h1>
+3    ===========
+4    <p>Code Fellows</p>
+5    >>>>>>>>>>> master
+
+- Line 2
+
+6. What property is used to change the text color of an element? 
+
+- color
+
+7. 
+Given the following code what style should be applied to make the images stack vertically?
+
+<section class=”isenguard”>
+  <img class=”lotr” src=”orcsWithAxes.gif” alt=”Chopping Down Trees”>
+  <img class=”lotr” src=”treeBeard.png” alt=”Stomping on Orcs”>
+  <img class=”lotr” src=”riverDam.jpg” alt=”Dam breaking”>
+</section>
+
+- .lotr{display:block;} 
+
+8. 
+Consider the following JavaScript code:
+
+function helloCodeFellows(){ 
+ // do some logic and return a valid value 
+}
+var testAlpha = helloCodeFellows();
+var testBeta = helloCodeFellows;
+What is the difference between variables testAlpha and testBeta?
+
+- 
+Variable testAlpha holds the return value from function helloCodeFellows whereas variable testBeta holds reference for function helloCodeFellows.
+
+9. Which of the following are standard CSS pseudo-classes?
+
+- 
+:hover
+
+:last-child
+
+:target
+
+10. 
+Which of the following is/are true about JavaScript object properties?
+
+A. All properties can be accessed through "." operation
+
+B. All properties are automatically locally scoped but may be accessed by using ‘prototype’
+
+C. Variables declared inside constructor functions are locally scoped and cannot be directly accessed as properties - T -
+
+D. Variables declared inside constructor functions are globally scoped - F -
+
+E. Properties that contain boolean values may not be accessed with bracket notation and are only accessible through “.” operation
+
+- C
+
+## Quiz 6
+
+1. Your classmate has an account on GitHub, with a username of "naman14". She has a repository called "Timber". In order to download the "Timber" Git repository on your local machine for the first time, you would issue which of following Git commands?
+
+- git clone https://github.com/naman14/Timber.git
+
+2. Which of the following CSS declarations will change the color of text inside all <cite> tags to red? 
+
+- cite {color: red}
+
+3. h1 { 
+  border-width: 5px;
+  border: dashed blue;
+}
+
+After adding the CSS properties listed above, at 100% zoom, what will be the computed width of the border around an <h1>?
+
+- 3px
+
+4. 
+Which of the following statements about the CSS float property are true?
+
+A. The CSS "float" property affects the layout of elements in a page -T-
+
+B. Content flows down the right side of a left-floated box -T-
+
+C. Adding a "float" CSS property allows an element to be positioned outside its containing element -T-
+
+D. "float" CSS property can have pixel values such as "10px" or string values such as "left", "right" -T-
+
+E. "clear" CSS property can prevent content from trying to flow around or alongside a floated element -T-
+
+- A, B, C, D, E
