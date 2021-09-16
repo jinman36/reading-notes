@@ -30,7 +30,7 @@
 
 - no whitespace
 
-7. WHat Unix xommand would create a new directory called thursday
+7. What Unix command would create a new directory called thursday
 
 - mkdir thursday
 
@@ -350,9 +350,9 @@ A. The CSS "float" property affects the layout of elements in a page -T-
 
 B. Content flows down the right side of a left-floated box -T-
 
-C. Adding a "float" CSS property allows an element to be positioned outside its containing element -T-
+C. Adding a "float" CSS property allows an element to be positioned outside its containing element -F-
 
-D. "float" CSS property can have pixel values such as "10px" or string values such as "left", "right" -T-
+D. "float" CSS property can have pixel values such as "10px" or string values such as "left", "right" -F-
 
 E. "clear" CSS property can prevent content from trying to flow around or alongside a floated element -T-
 
@@ -435,3 +435,20 @@ The JavaScript engine will create two Dog objects, then pass them as arguments t
 10. In modern browsers, localStorage data is stored in:
 
 - The file system
+
+11. function Graph() {
+  this.nodes = [];
+  this.edges = [];
+}
+
+Graph.prototype.addNodes = function(n){
+  this.nodes.push(n);
+};
+
+Graph.prototype.addEdges = function(n){
+  this.edges.push(n);
+};
+
+var graphObj = new Graph();
+
+- The variable graphObj has no methods, and only has access to the nodes and edges arrays.

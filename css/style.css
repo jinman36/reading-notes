@@ -1,11 +1,11 @@
-body {
+/* body {
   margin: 10px 150px;
   /* width: 980px; */
-  height: 1200px;
-}
-
+  /* height: 1200px;
+} */
+/* 
 h1 {
-  border-width: 15px;
+  border-width: 5px;
   border: dashed blue;
 }
 
@@ -30,7 +30,24 @@ h5 {
   position: absolute; 
   top: 2.3em;
   left: 50%;
+} */ */
+
+/* #top-div {
+  width: 200px;
+  position: relative;
 }
 
+#inner-div {
+  width: 100px;
+  display: inline;
+} */
 
+.top-div {
+  width: 300px;
+  position: absolute;
+}
 
+.inner-div {
+  width: 300px;
+  position: relative;
+}
