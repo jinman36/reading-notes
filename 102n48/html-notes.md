@@ -16,7 +16,7 @@
                         <a href="jinman36.github.io/reading-notes/">About the Chef</a>
                     </li>
                 </ul>
-            </nav>             
+            </nav>
         </header>
         <Main>
             <section>
@@ -31,13 +31,11 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed diam arcu. Donec luctus mi nisl, nec commodo ex semper eu. Fusce pulvinar suscipit iaculis. Quisque suscipit, tortor quis congue varius, leo mi commodo dolor, sed luctus enim elit sed metus. Fusce ultrices ac nisl id sagittis. Ut ut purus eu risus hendrerit semper. In id nunc vitae ante lobortis facilisis ut ac nisl. Sed sed risus non dolor suscipit varius.
                 </p>
                         </section>
-         </Main>   
-         <footer>         
+         </Main>
+         <footer>
              &copy; Food for BBQ
         </footer>
     </body>
 </html>
-
-
 
 - [Back to main Page](README.md)
